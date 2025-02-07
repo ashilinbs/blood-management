@@ -5,14 +5,14 @@
 ## objective
 1. **Facilitate Blood Donation Process**
 2. **Predict Blood Shortages Using Data Analytics**
-3. **Automate Donation Reminders**
+3. **Automate Donation Reminders** 
 4. **Real-Time Data Analytics & Reporting**
 5. **Location-based Services**
 6. **Enhance Collaboration Between Stakeholders**
 7. **Ensure Data Security**
 8. **Foster a Community of Donors**
 ## Navigation pages
- 1. **Home page🏠**
+ 1. **Home page🏠** 
  1. **About Page🧾**
  1. **search Page🔎**
  1. **contact Page☎️**
@@ -49,7 +49,7 @@
 |Row2     |         |         |
 |Row3     |         |         |
 
-
+<img src="/blood-management/img/img.png">
 
 
 
