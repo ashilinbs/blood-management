@@ -50,6 +50,8 @@
 |Row3     |         |         |
 
 <img src="/blood-management/img/img.png">
+<img src="/blood-management/img/log.png">
+<img src="/blood-management/img/hom.png">
 
 
 
