@@ -49,9 +49,11 @@
 |Row2     |         |         |
 |Row3     |         |         |
 
-<img src="/blood-management/img/img.png">
-<img src="/blood-management/img/log.png">
-<img src="/blood-management/img/hom.png">
+<img src="/img/img.png">
+<img src="/img/log.png">
+<img src="/img/hom.png">
+<img src="/img/donor.png">
+
 
 
 
